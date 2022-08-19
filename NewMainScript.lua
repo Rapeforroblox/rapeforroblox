@@ -174,7 +174,7 @@ local Combat = GuiLibrary.CreateWindow({
 	["IconSize"] = 15
 })
 local Blatant = GuiLibrary.CreateWindow({
-	["Name"] = "Balantt", 
+	["Name"] = "Balant", 
 	["Icon"] = "vape/assets/BlatantIcon.png", 
 	["IconSize"] = 16
 })
